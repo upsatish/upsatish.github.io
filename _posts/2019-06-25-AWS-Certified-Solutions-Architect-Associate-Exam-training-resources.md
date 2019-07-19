@@ -3,7 +3,7 @@ layout: post
 title:  "AWS Certified Solutions Architect - Associate Exam training resources"
 date:   2019-06-25 20:00:00 +0800
 categories: update
-tags: update aws certified solutions architect associate exam training certification
+tags: update aws certified solutions architect associate exam training tech
 ---
 A comprehensive list of resources for training for the AWS Certified Solutions Architect - Associate certification exam.
 
