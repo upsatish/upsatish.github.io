@@ -13,7 +13,7 @@ The modem-router / gateway on a local network does IP addresses and must support
 ![IPv6 toggle local network](/assets/img/IPv6 Local Network toggle.png)
 ![IPv6 assigned local network](/assets/img/IPv6 Assigned Local Network.png)
 
-### Testing IPv6 for Internet
+### Testing IPv6 on a local network
 On a workstation terminal your IP address can be viewed with the ifconfig or ip addr (Ubuntu Linux) or ipconfig (Windows) command, depending on your operating system. The output will have an IPv4 and an IPv6 address, allowing your device to communicate with nodes that support both IPv4 and IPv6 addresses.
 
     $ ifconfig
