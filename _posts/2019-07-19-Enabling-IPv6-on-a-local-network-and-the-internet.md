@@ -5,7 +5,7 @@ date:   2019-07-19 10:00:00 +0800
 categories: update
 tags: update ipv6 tech
 ---
-After reading about IPv6, I decided to learn a few things about it by enabling it on my local network and the internet. Watch the first part of [this video](https://www.youtube.com/watch?v=GE_FqZ-XLR0) to learn some IPv6 basics.
+After reading about IPv6, I decided to learn a few things about it by enabling it on my local network and the internet. Watch the first part of [this video by Amazon Web Services](https://www.youtube.com/watch?v=GE_FqZ-XLR0) to learn some IPv6 basics.
 
 ## Enabling IPv6 on a local network
 The modem-router / gateway on a local network does IP addresses and must support IPv6. On my router’s (Technicolor TG789vac v2) admin interface, I had to switch on an IPv6 state toggle under the Local Network tile to enable IPv6. DHCPv6 will assign IPv6 addresses for your connected devices. The router can work in dual stack network support, running both IPv4 and IPv6 addresses and connecting to IPv4 and IPv6 resources simultaneously.
