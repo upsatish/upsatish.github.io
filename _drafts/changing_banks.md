@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Changing my bank"
+title:  "Changing banks"
 date:   2020-03-10 15:00:00 +0800
 categories: update
-tags: update draft banking money
+tags: update draft banking bank home loan money
 ---
 
 # Points
