@@ -31,6 +31,8 @@ A comprehensive list of resources for training for the AWS Certified Solutions A
 * Practice exam sample questions
   * Sample questions - [https://d1.awsstatic.com/training-and-certification/docs/AWS_Certified_Solutions_Architect_Associate_Sample_Questions.pdf](https://d1.awsstatic.com/training-and-certification/docs/AWS_Certified_Solutions_Architect_Associate_Sample_Questions.pdf)
   * Sample questions - [https://awstrainingandcertification.s3.amazonaws.com/production/AWS_certified_solutions_architect_associate_examsample.pdf](http://awstrainingandcertification.s3.amazonaws.com/production/AWS_certified_solutions_architect_associate_examsample.pdf)
+  * Sample questions - 
+  [https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Sample-Questions_v4.1_FINAL.pdf](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Sample-Questions_v4.1_FINAL.pdf)
   * AWS Practice Exams - AWS Certified Solutions Architect Associate - Practice
 * acloud.guru course (12.5 hours) - [https://acloud.guru/learn/aws-certified-solutions-architect-associate](https://acloud.guru/learn/aws-certified-solutions-architect-associate)
 * AWS Certified Solutions Architect Official Study Guide - [https://www.amazon.com/dp/1119138558](https://www.amazon.com/dp/1119138558)
