@@ -28,13 +28,19 @@ A comprehensive list of resources for training for the AWS Certified Solutions A
   * Courseware - vantage bookshelf
     * VitalSource Bookshelf - Architecting on AWS
 * Solutions architect - Associate - qwiklabs.com quest (4 hours) - [https://amazon.qwiklabs.com/quests/10](https://amazon.qwiklabs.com/quests/10)
-* acloud.guru course (12.5 hours) - [https://acloud.guru/learn/aws-certified-solutions-architect-associate](https://acloud.guru/learn/aws-certified-solutions-architect-associate)
 * Exam Readiness training: AWS Certified Solutions Architect – Associate (2 hours) - [https://www.aws.training/learningobject/curriculum?id=20685](https://www.aws.training/learningobject/curriculum?id=20685)
 * Practice exam sample questions
   * Sample questions - [https://d1.awsstatic.com/training-and-certification/docs/AWS_Certified_Solutions_Architect_Associate_Sample_Questions.pdf](https://d1.awsstatic.com/training-and-certification/docs/AWS_Certified_Solutions_Architect_Associate_Sample_Questions.pdf)
   * Sample questions - [https://awstrainingandcertification.s3.amazonaws.com/production/AWS_certified_solutions_architect_associate_examsample.pdf](http://awstrainingandcertification.s3.amazonaws.com/production/AWS_certified_solutions_architect_associate_examsample.pdf)
   * AWS Practice Exams - AWS Certified Solutions Architect Associate - Practice
+* acloud.guru course (12.5 hours) - [https://acloud.guru/learn/aws-certified-solutions-architect-associate](https://acloud.guru/learn/aws-certified-solutions-architect-associate)
+* Revision
+  * TutorialsDojo cheat sheets - [https://tutorialsdojo.com/links-to-all-aws-cheat-sheets/]
+  * TutorialsDojo practice exams - [https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/]
+  * Whizlabs practice tests - [https://www.whizlabs.com/aws-solutions-architect-associate/practice-tests/]
 * Additional resources
+  * Search for and read all whitepapers listed in Architecting for the Cloud AWS Best Practices Notes
+  * Read notes section in Architecting for the Cloud AWS Best Practices
   * Introductory labs at qwiklabs.com
     * Introduction to Amazon EC2 (1 hour) - [https://amazon.qwiklabs.com/focuses/4805?parent=catalog](https://amazon.qwiklabs.com/focuses/4805?parent=catalog)
     * Introduction to Amazon Simple Storage Service (S3) (1 hour) - [https://amazon.qwiklabs.com/focuses/278?parent=catalog](https://amazon.qwiklabs.com/focuses/278?parent=catalog)
@@ -49,8 +55,5 @@ A comprehensive list of resources for training for the AWS Certified Solutions A
     * Introduction to AWS Lambda (45 minutes) - [https://amazon.qwiklabs.com/focuses/284?parent=catalog](https://amazon.qwiklabs.com/focuses/284?parent=catalog)
     * Introduction to Elastic Load Balancing (50 minutes) - [https://amazon.qwiklabs.com/focuses/390?parent=catalog](https://amazon.qwiklabs.com/focuses/390?parent=catalog)
     * Introduction to Amazon EC2 Auto Scaling (40 minutes) - [https://amazon.qwiklabs.com/focuses/369?parent=catalog](https://amazon.qwiklabs.com/focuses/369?parent=catalog)
-  * Search for and read all whitepapers listed in Architecting for the Cloud AWS Best Practices Notes
-  * Read notes in Architecting for the Cloud AWS Best Practices
   * AWS Cloud Practitioner Essentials - Fundamental videos (4.5 hours) - [https://www.aws.training/learningobject/curriculum?id=27076](https://www.aws.training/learningobject/curriculum?id=27076)
   * Courseware from classroom training - vantage vitalSource Bookshelf - AWS Technical Essentials
-
