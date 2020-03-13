@@ -3,7 +3,7 @@ layout: post
 title:  "AWS Certified Solutions Architect - Associate Exam training resources"
 date:   2019-06-25 20:00:00 +0800
 categories: update
-tags: update aws certified solutions architect associate exam training tech
+tags: update aws certified solutions architect associate exam training tech SAA-C01
 ---
 A comprehensive list of resources for training for the AWS Certified Solutions Architect - Associate certification exam.
 
@@ -27,7 +27,6 @@ A comprehensive list of resources for training for the AWS Certified Solutions A
   * AWS well architected framework - [https://aws.amazon.com/architecture/well-architected/](https://aws.amazon.com/architecture/well-architected/)
   * Courseware - vantage bookshelf
     * VitalSource Bookshelf - Architecting on AWS
-* Solutions architect - Associate - qwiklabs.com quest (4 hours) - [https://amazon.qwiklabs.com/quests/10](https://amazon.qwiklabs.com/quests/10)
 * Exam Readiness training: AWS Certified Solutions Architect – Associate (2 hours) - [https://www.aws.training/learningobject/curriculum?id=20685](https://www.aws.training/learningobject/curriculum?id=20685)
 * Practice exam sample questions
   * Sample questions - [https://d1.awsstatic.com/training-and-certification/docs/AWS_Certified_Solutions_Architect_Associate_Sample_Questions.pdf](https://d1.awsstatic.com/training-and-certification/docs/AWS_Certified_Solutions_Architect_Associate_Sample_Questions.pdf)
@@ -35,6 +34,7 @@ A comprehensive list of resources for training for the AWS Certified Solutions A
   * AWS Practice Exams - AWS Certified Solutions Architect Associate - Practice
 * acloud.guru course (12.5 hours) - [https://acloud.guru/learn/aws-certified-solutions-architect-associate](https://acloud.guru/learn/aws-certified-solutions-architect-associate)
 * AWS Certified Solutions Architect Official Study Guide - [https://www.amazon.com/dp/1119138558](https://www.amazon.com/dp/1119138558)
+* Solutions architect - Associate - qwiklabs.com quest (4 hours) - [https://amazon.qwiklabs.com/quests/10](https://amazon.qwiklabs.com/quests/10)
 * Revise
   * TutorialsDojo cheat sheets - [https://tutorialsdojo.com/links-to-all-aws-cheat-sheets/](https://tutorialsdojo.com/links-to-all-aws-cheat-sheets/)
   * TutorialsDojo practice exams - [https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/)
