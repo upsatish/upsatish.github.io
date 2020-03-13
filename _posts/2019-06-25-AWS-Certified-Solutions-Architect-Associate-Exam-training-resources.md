@@ -34,12 +34,13 @@ A comprehensive list of resources for training for the AWS Certified Solutions A
   * Sample questions - [https://awstrainingandcertification.s3.amazonaws.com/production/AWS_certified_solutions_architect_associate_examsample.pdf](http://awstrainingandcertification.s3.amazonaws.com/production/AWS_certified_solutions_architect_associate_examsample.pdf)
   * AWS Practice Exams - AWS Certified Solutions Architect Associate - Practice
 * acloud.guru course (12.5 hours) - [https://acloud.guru/learn/aws-certified-solutions-architect-associate](https://acloud.guru/learn/aws-certified-solutions-architect-associate)
-* Revision
-  * TutorialsDojo cheat sheets - [https://tutorialsdojo.com/links-to-all-aws-cheat-sheets/]
-  * TutorialsDojo practice exams - [https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/]
-  * Whizlabs practice tests - [https://www.whizlabs.com/aws-solutions-architect-associate/practice-tests/]
+* AWS Certified Solutions Architect Official Study Guide - [https://www.amazon.com/dp/1119138558](https://www.amazon.com/dp/1119138558)
+* Revise
+  * TutorialsDojo cheat sheets - [https://tutorialsdojo.com/links-to-all-aws-cheat-sheets/](https://tutorialsdojo.com/links-to-all-aws-cheat-sheets/)
+  * TutorialsDojo practice exams - [https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/)
+  * Whizlabs practice tests - [https://www.whizlabs.com/aws-solutions-architect-associate/practice-tests/](https://www.whizlabs.com/aws-solutions-architect-associate/practice-tests/)
 * Additional resources
-  * Search for and read all whitepapers listed in Architecting for the Cloud AWS Best Practices Notes
+  * Search for and read all whitepapers listed in the notes section of the whitepaper Architecting for the Cloud AWS Best Practices
   * Read notes section in Architecting for the Cloud AWS Best Practices
   * Introductory labs at qwiklabs.com
     * Introduction to Amazon EC2 (1 hour) - [https://amazon.qwiklabs.com/focuses/4805?parent=catalog](https://amazon.qwiklabs.com/focuses/4805?parent=catalog)
