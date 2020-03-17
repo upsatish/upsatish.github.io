@@ -5,7 +5,7 @@ date:   2019-06-25 20:00:00 +0800
 categories: update
 tags: update aws certified solutions architect associate exam training tech SAA-C01
 ---
-A comprehensive list of resources for training for the AWS Certified Solutions Architect - Associate certification exam.
+A comprehensive list of resources for training for the AWS Certified Solutions Architect - Associate certification exam SAA-C01.
 
 * Read and prepare
   * Prepare for certification - [https://aws.amazon.com/certification/certification-prep/](https://aws.amazon.com/certification/certification-prep/)
