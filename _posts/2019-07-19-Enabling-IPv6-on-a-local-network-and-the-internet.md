@@ -4,6 +4,7 @@ title:  "Enabling IPv6 on a local network and the internet"
 date:   2019-07-19 10:00:00 +0800
 categories: update
 tags: update ipv6 tech
+hidden: true
 ---
 After reading about IPv6, I decided to learn a few things about it by enabling it on my local network and the internet. Watch the first part of [this video by Amazon Web Services](https://www.youtube.com/watch?v=GE_FqZ-XLR0) to learn some IPv6 basics.
 
